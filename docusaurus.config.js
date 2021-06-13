@@ -2,7 +2,7 @@
 module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://domain.com',
   baseUrl: '/test/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
